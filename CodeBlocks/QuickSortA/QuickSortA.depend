@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1589060050 source:/home/Petr/Development/cpp/CodeBlocks/QuickSortA/main.cpp
+	"QuickSortA.h"
+
+1589059968 /home/Petr/Development/cpp/CodeBlocks/QuickSortA/QuickSortA.h
+	<iostream>
+	<vector>
+	<random>
+	<functional>
+
