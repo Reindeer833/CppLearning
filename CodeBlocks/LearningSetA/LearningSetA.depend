@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1654900868 source:/home/Petr/Development/cpp/CppLearning/CodeBlocks/LearningSetA/main.cpp
+	<iostream>
+	<set>
+	<iterator>
+	<fstream>
+	<set>
+	<string.h>
+
